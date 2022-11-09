@@ -8,6 +8,9 @@ public class Main {
 
         gitClass01.printGit();
 
+        int printThis = 123456789;
+
+        System.out.println(printThis);
 
     }
 }
