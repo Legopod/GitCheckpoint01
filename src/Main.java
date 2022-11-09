@@ -12,5 +12,7 @@ public class Main {
 
         System.out.println(printThis);
 
+        System.out.println("Project done!");
+
     }
 }
